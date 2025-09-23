@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "owies",
+    "name": "owies",
+    "authors": [
+        "QPTech"
+    ],
+    "description": "Make bandages faster to apply",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    },
+    "side": "server"
+}

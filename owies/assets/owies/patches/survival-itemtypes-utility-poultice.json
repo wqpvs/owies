@@ -1,0 +1,30 @@
+[
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-reed-honey-sulfur/applicationtimesec",
+    "value": 0.01,
+    "file": "game:itemtypes/utility/poultice.json",
+    "side": "Server"
+ },
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-reed-horsetail/applicationtimesec",
+    "value": 0.01,
+    "file": "game:itemtypes/utility/poultice.json",
+    "side": "Server"
+ },
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-linen-honey-sulfur/applicationtimesec",
+    "value": 0.01,
+    "file": "game:itemtypes/utility/poultice.json",
+    "side": "Server"
+ },
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-linen-horsetail/applicationtimesec",
+    "value": 0.01,
+    "file": "game:itemtypes/utility/poultice.json",
+    "side": "Server"
+ }
+]

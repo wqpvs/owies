@@ -1,0 +1,16 @@
+[
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-alcoholed/applicationtimesec",
+    "value": 0.01,
+    "file": "game:itemtypes/bandage.json",
+    "side": "Server"
+ },
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-clean/applicationtimesec",
+    "value": 0.01,
+    "file": "game:itemtypes/bandage.json",
+    "side": "Server"
+ }
+]
