@@ -2,14 +2,28 @@
 {
     "op": "replace",
     "path": "/behaviors/0/propertiesByType/*-alcoholed/applicationtimesec",
-    "value": 0.01,
+    "value": 0.5,
     "file": "game:itemtypes/bandage.json",
     "side": "Server"
  },
 {
     "op": "replace",
     "path": "/behaviors/0/propertiesByType/*-clean/applicationtimesec",
-    "value": 0.01,
+    "value": 0.5,
+    "file": "game:itemtypes/bandage.json",
+    "side": "Server"
+ },
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-alcoholed/maxapplicationtimesec",
+    "value": 1,
+    "file": "game:itemtypes/bandage.json",
+    "side": "Server"
+ },
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-clean/maxapplicationtimesec",
+    "value": 1,
     "file": "game:itemtypes/bandage.json",
     "side": "Server"
  }

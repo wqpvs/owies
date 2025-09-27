@@ -2,28 +2,56 @@
 {
     "op": "replace",
     "path": "/behaviors/0/propertiesByType/*-reed-honey-sulfur/applicationtimesec",
-    "value": 0.01,
+    "value": 0.5,
     "file": "game:itemtypes/utility/poultice.json",
     "side": "Server"
  },
 {
     "op": "replace",
     "path": "/behaviors/0/propertiesByType/*-reed-horsetail/applicationtimesec",
-    "value": 0.01,
+    "value": 0.5,
     "file": "game:itemtypes/utility/poultice.json",
     "side": "Server"
  },
 {
     "op": "replace",
     "path": "/behaviors/0/propertiesByType/*-linen-honey-sulfur/applicationtimesec",
-    "value": 0.01,
+    "value": 0.5,
     "file": "game:itemtypes/utility/poultice.json",
     "side": "Server"
  },
 {
     "op": "replace",
     "path": "/behaviors/0/propertiesByType/*-linen-horsetail/applicationtimesec",
-    "value": 0.01,
+    "value": 0.5,
+    "file": "game:itemtypes/utility/poultice.json",
+    "side": "Server"
+ },
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-reed-honey-sulfur/maxapplicationtimesec",
+    "value": 1,
+    "file": "game:itemtypes/utility/poultice.json",
+    "side": "Server"
+ },
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-reed-horsetail/maxapplicationtimesec",
+    "value": 1,
+    "file": "game:itemtypes/utility/poultice.json",
+    "side": "Server"
+ },
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-linen-honey-sulfur/maxapplicationtimesec",
+    "value": 1,
+    "file": "game:itemtypes/utility/poultice.json",
+    "side": "Server"
+ },
+{
+    "op": "replace",
+    "path": "/behaviors/0/propertiesByType/*-linen-horsetail/maxapplicationtimesec",
+    "value": 1,
     "file": "game:itemtypes/utility/poultice.json",
     "side": "Server"
  }

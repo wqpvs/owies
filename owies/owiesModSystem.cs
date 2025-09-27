@@ -7,6 +7,9 @@ namespace owies
 {
     public class owiesModSystem : ModSystem
     {
-       
+        public override double ExecuteOrder()
+        {
+            return 1;
+        }
     }
 }

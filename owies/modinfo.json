@@ -6,7 +6,7 @@
         "QPTech"
     ],
     "description": "Make bandages faster to apply",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
         "game": ""
     },
